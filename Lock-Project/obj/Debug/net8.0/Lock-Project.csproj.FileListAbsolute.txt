@@ -1,0 +1,15 @@
+D:\1KHAI\2 semester\.Net\HW\Lock-Project\bin\Debug\net8.0\Lock-Project.exe
+D:\1KHAI\2 semester\.Net\HW\Lock-Project\bin\Debug\net8.0\Lock-Project.deps.json
+D:\1KHAI\2 semester\.Net\HW\Lock-Project\bin\Debug\net8.0\Lock-Project.runtimeconfig.json
+D:\1KHAI\2 semester\.Net\HW\Lock-Project\bin\Debug\net8.0\Lock-Project.dll
+D:\1KHAI\2 semester\.Net\HW\Lock-Project\bin\Debug\net8.0\Lock-Project.pdb
+D:\1KHAI\2 semester\.Net\HW\Lock-Project\obj\Debug\net8.0\Lock-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\1KHAI\2 semester\.Net\HW\Lock-Project\obj\Debug\net8.0\Lock-Project.AssemblyInfoInputs.cache
+D:\1KHAI\2 semester\.Net\HW\Lock-Project\obj\Debug\net8.0\Lock-Project.AssemblyInfo.cs
+D:\1KHAI\2 semester\.Net\HW\Lock-Project\obj\Debug\net8.0\Lock-Project.csproj.CoreCompileInputs.cache
+D:\1KHAI\2 semester\.Net\HW\Lock-Project\obj\Debug\net8.0\Lock-Project.sourcelink.json
+D:\1KHAI\2 semester\.Net\HW\Lock-Project\obj\Debug\net8.0\Lock-Project.dll
+D:\1KHAI\2 semester\.Net\HW\Lock-Project\obj\Debug\net8.0\refint\Lock-Project.dll
+D:\1KHAI\2 semester\.Net\HW\Lock-Project\obj\Debug\net8.0\Lock-Project.pdb
+D:\1KHAI\2 semester\.Net\HW\Lock-Project\obj\Debug\net8.0\Lock-Project.genruntimeconfig.cache
+D:\1KHAI\2 semester\.Net\HW\Lock-Project\obj\Debug\net8.0\ref\Lock-Project.dll
