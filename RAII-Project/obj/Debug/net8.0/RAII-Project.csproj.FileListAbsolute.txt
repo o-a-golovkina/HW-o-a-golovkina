@@ -1,0 +1,15 @@
+D:\1KHAI\2 semester\.Net\HW\RAII-Project\bin\Debug\net8.0\RAII-Project.exe
+D:\1KHAI\2 semester\.Net\HW\RAII-Project\bin\Debug\net8.0\RAII-Project.deps.json
+D:\1KHAI\2 semester\.Net\HW\RAII-Project\bin\Debug\net8.0\RAII-Project.runtimeconfig.json
+D:\1KHAI\2 semester\.Net\HW\RAII-Project\bin\Debug\net8.0\RAII-Project.dll
+D:\1KHAI\2 semester\.Net\HW\RAII-Project\bin\Debug\net8.0\RAII-Project.pdb
+D:\1KHAI\2 semester\.Net\HW\RAII-Project\obj\Debug\net8.0\RAII-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\1KHAI\2 semester\.Net\HW\RAII-Project\obj\Debug\net8.0\RAII-Project.AssemblyInfoInputs.cache
+D:\1KHAI\2 semester\.Net\HW\RAII-Project\obj\Debug\net8.0\RAII-Project.AssemblyInfo.cs
+D:\1KHAI\2 semester\.Net\HW\RAII-Project\obj\Debug\net8.0\RAII-Project.csproj.CoreCompileInputs.cache
+D:\1KHAI\2 semester\.Net\HW\RAII-Project\obj\Debug\net8.0\RAII-Project.sourcelink.json
+D:\1KHAI\2 semester\.Net\HW\RAII-Project\obj\Debug\net8.0\RAII-Project.dll
+D:\1KHAI\2 semester\.Net\HW\RAII-Project\obj\Debug\net8.0\refint\RAII-Project.dll
+D:\1KHAI\2 semester\.Net\HW\RAII-Project\obj\Debug\net8.0\RAII-Project.pdb
+D:\1KHAI\2 semester\.Net\HW\RAII-Project\obj\Debug\net8.0\RAII-Project.genruntimeconfig.cache
+D:\1KHAI\2 semester\.Net\HW\RAII-Project\obj\Debug\net8.0\ref\RAII-Project.dll
