@@ -1,0 +1,15 @@
+D:\1KHAI\2 semester\.Net\HW\Decorator-Project\bin\Debug\net8.0\Decorator-Project.exe
+D:\1KHAI\2 semester\.Net\HW\Decorator-Project\bin\Debug\net8.0\Decorator-Project.deps.json
+D:\1KHAI\2 semester\.Net\HW\Decorator-Project\bin\Debug\net8.0\Decorator-Project.runtimeconfig.json
+D:\1KHAI\2 semester\.Net\HW\Decorator-Project\bin\Debug\net8.0\Decorator-Project.dll
+D:\1KHAI\2 semester\.Net\HW\Decorator-Project\bin\Debug\net8.0\Decorator-Project.pdb
+D:\1KHAI\2 semester\.Net\HW\Decorator-Project\obj\Debug\net8.0\Decorator-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\1KHAI\2 semester\.Net\HW\Decorator-Project\obj\Debug\net8.0\Decorator-Project.AssemblyInfoInputs.cache
+D:\1KHAI\2 semester\.Net\HW\Decorator-Project\obj\Debug\net8.0\Decorator-Project.AssemblyInfo.cs
+D:\1KHAI\2 semester\.Net\HW\Decorator-Project\obj\Debug\net8.0\Decorator-Project.csproj.CoreCompileInputs.cache
+D:\1KHAI\2 semester\.Net\HW\Decorator-Project\obj\Debug\net8.0\Decorator-Project.sourcelink.json
+D:\1KHAI\2 semester\.Net\HW\Decorator-Project\obj\Debug\net8.0\Decorator-Project.dll
+D:\1KHAI\2 semester\.Net\HW\Decorator-Project\obj\Debug\net8.0\refint\Decorator-Project.dll
+D:\1KHAI\2 semester\.Net\HW\Decorator-Project\obj\Debug\net8.0\Decorator-Project.pdb
+D:\1KHAI\2 semester\.Net\HW\Decorator-Project\obj\Debug\net8.0\Decorator-Project.genruntimeconfig.cache
+D:\1KHAI\2 semester\.Net\HW\Decorator-Project\obj\Debug\net8.0\ref\Decorator-Project.dll
