@@ -2,7 +2,7 @@
 {
     public class FileManager : IDisposable
     {
-        private FileStream file;
+        private readonly FileStream file = null!;
         private bool disposed = false;
 
         // Конструктор, який ініціалізує ресурс (відкриває файл)
@@ -24,11 +24,9 @@
         {
             if (file != null)
             {
-                using (StreamWriter writer = new StreamWriter(file))
-                {
-                    writer.WriteLine(text);
-                    Console.WriteLine("Text has been written into the file!");
-                }
+                using StreamWriter writer = new(file);
+                writer.WriteLine(text);
+                Console.WriteLine("Text has been written into the file!");
             }
         }
 
