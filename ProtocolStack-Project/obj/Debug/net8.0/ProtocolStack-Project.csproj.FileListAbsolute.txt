@@ -1,0 +1,15 @@
+D:\1KHAI\2 semester\.Net\HW\ProtocolStack-Project\bin\Debug\net8.0\ProtocolStack-Project.exe
+D:\1KHAI\2 semester\.Net\HW\ProtocolStack-Project\bin\Debug\net8.0\ProtocolStack-Project.deps.json
+D:\1KHAI\2 semester\.Net\HW\ProtocolStack-Project\bin\Debug\net8.0\ProtocolStack-Project.runtimeconfig.json
+D:\1KHAI\2 semester\.Net\HW\ProtocolStack-Project\bin\Debug\net8.0\ProtocolStack-Project.dll
+D:\1KHAI\2 semester\.Net\HW\ProtocolStack-Project\bin\Debug\net8.0\ProtocolStack-Project.pdb
+D:\1KHAI\2 semester\.Net\HW\ProtocolStack-Project\obj\Debug\net8.0\ProtocolStack-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\1KHAI\2 semester\.Net\HW\ProtocolStack-Project\obj\Debug\net8.0\ProtocolStack-Project.AssemblyInfoInputs.cache
+D:\1KHAI\2 semester\.Net\HW\ProtocolStack-Project\obj\Debug\net8.0\ProtocolStack-Project.AssemblyInfo.cs
+D:\1KHAI\2 semester\.Net\HW\ProtocolStack-Project\obj\Debug\net8.0\ProtocolStack-Project.csproj.CoreCompileInputs.cache
+D:\1KHAI\2 semester\.Net\HW\ProtocolStack-Project\obj\Debug\net8.0\ProtocolStack-Project.sourcelink.json
+D:\1KHAI\2 semester\.Net\HW\ProtocolStack-Project\obj\Debug\net8.0\ProtocolStack-Project.dll
+D:\1KHAI\2 semester\.Net\HW\ProtocolStack-Project\obj\Debug\net8.0\refint\ProtocolStack-Project.dll
+D:\1KHAI\2 semester\.Net\HW\ProtocolStack-Project\obj\Debug\net8.0\ProtocolStack-Project.pdb
+D:\1KHAI\2 semester\.Net\HW\ProtocolStack-Project\obj\Debug\net8.0\ProtocolStack-Project.genruntimeconfig.cache
+D:\1KHAI\2 semester\.Net\HW\ProtocolStack-Project\obj\Debug\net8.0\ref\ProtocolStack-Project.dll
