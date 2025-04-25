@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RAII-Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b94ff7e5ee7e20a9e08acedc32777085fdcff71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8564559eb5de09fd124cee44299e968757388fe5")]
 [assembly: System.Reflection.AssemblyProductAttribute("RAII-Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RAII-Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
