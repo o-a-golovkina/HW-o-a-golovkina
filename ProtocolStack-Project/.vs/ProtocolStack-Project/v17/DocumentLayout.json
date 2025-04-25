@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{97FF12D8-7D87-4B02-842B-AFD7F00DAD10}|ProtocolStack-Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97FF12D8-7D87-4B02-842B-AFD7F00DAD10}|ProtocolStack-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\protocolstack-project\\uppercaseprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97FF12D8-7D87-4B02-842B-AFD7F00DAD10}|ProtocolStack-Project.csproj|solutionrelative:uppercaseprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97FF12D8-7D87-4B02-842B-AFD7F00DAD10}|ProtocolStack-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\protocolstack-project\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FF12D8-7D87-4B02-842B-AFD7F00DAD10}|ProtocolStack-Project.csproj|solutionrelative:protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FF12D8-7D87-4B02-842B-AFD7F00DAD10}|ProtocolStack-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\protocolstack-project\\protocolstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FF12D8-7D87-4B02-842B-AFD7F00DAD10}|ProtocolStack-Project.csproj|solutionrelative:protocolstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97FF12D8-7D87-4B02-842B-AFD7F00DAD10}|ProtocolStack-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\protocolstack-project\\prefixprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{97FF12D8-7D87-4B02-842B-AFD7F00DAD10}|ProtocolStack-Project.csproj|solutionrelative:trimprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97FF12D8-7D87-4B02-842B-AFD7F00DAD10}|ProtocolStack-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\protocolstack-project\\protocolstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97FF12D8-7D87-4B02-842B-AFD7F00DAD10}|ProtocolStack-Project.csproj|solutionrelative:protocolstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97FF12D8-7D87-4B02-842B-AFD7F00DAD10}|ProtocolStack-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\protocolstack-project\\uppercaseprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FF12D8-7D87-4B02-842B-AFD7F00DAD10}|ProtocolStack-Project.csproj|solutionrelative:uppercaseprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Protocol.cs",
+              "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\HW\\ProtocolStack-Project\\Protocol.cs",
+              "RelativeDocumentMoniker": "Protocol.cs",
+              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\HW\\ProtocolStack-Project\\Protocol.cs",
+              "RelativeToolTip": "Protocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:27:38.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PrefixProtocol.cs",
               "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\HW\\ProtocolStack-Project\\PrefixProtocol.cs",
               "RelativeDocumentMoniker": "PrefixProtocol.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TrimProtocol.cs",
               "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\HW\\ProtocolStack-Project\\TrimProtocol.cs",
               "RelativeDocumentMoniker": "TrimProtocol.cs",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UppercaseProtocol.cs",
               "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\HW\\ProtocolStack-Project\\UppercaseProtocol.cs",
               "RelativeDocumentMoniker": "UppercaseProtocol.cs",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ProtocolStack.cs",
               "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\HW\\ProtocolStack-Project\\ProtocolStack.cs",
               "RelativeDocumentMoniker": "ProtocolStack.cs",

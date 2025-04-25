@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\1KHAI\\2 semester\\.Net\\HW\\Decorator-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\decorator-project\\sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|solutionrelative:sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\decorator-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\decorator-project\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|solutionrelative:milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\decorator-project\\beveragedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|solutionrelative:beveragedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\decorator-project\\sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|solutionrelative:sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\decorator-project\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|solutionrelative:tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\decorator-project\\beveragedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|solutionrelative:beveragedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\decorator-project\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|solutionrelative:coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\decorator-project\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|solutionrelative:beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\decorator-project\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|solutionrelative:tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\decorator-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\decorator-project\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA330AD-1734-4B34-B26B-A72E7CE97B1E}|Decorator-Project.csproj|solutionrelative:beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Sugar.cs",
               "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\HW\\Decorator-Project\\Sugar.cs",
               "RelativeDocumentMoniker": "Sugar.cs",
               "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\HW\\Decorator-Project\\Sugar.cs",
               "RelativeToolTip": "Sugar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T13:40:02.205Z",
               "EditorCaption": ""
@@ -76,20 +76,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BeverageDecorator.cs",
               "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\HW\\Decorator-Project\\BeverageDecorator.cs",
               "RelativeDocumentMoniker": "BeverageDecorator.cs",
-              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\HW\\Decorator-Project\\BeverageDecorator.cs*",
-              "RelativeToolTip": "BeverageDecorator.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAgAAAAAAAAAA==",
+              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\HW\\Decorator-Project\\BeverageDecorator.cs",
+              "RelativeToolTip": "BeverageDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T13:32:52.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Tea.cs",
               "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\HW\\Decorator-Project\\Tea.cs",
               "RelativeDocumentMoniker": "Tea.cs",
@@ -115,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Beverage.cs",
               "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\HW\\Decorator-Project\\Beverage.cs",
               "RelativeDocumentMoniker": "Beverage.cs",
@@ -128,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\HW\\Decorator-Project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

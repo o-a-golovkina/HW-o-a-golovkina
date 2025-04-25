@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\1KHAI\\2 semester\\.Net\\HW\\RAII-Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE49C47E-1142-4DFB-B142-3F6D50176AA7}|RAII-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\raii-project\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE49C47E-1142-4DFB-B142-3F6D50176AA7}|RAII-Project.csproj|solutionrelative:filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE49C47E-1142-4DFB-B142-3F6D50176AA7}|RAII-Project.csproj|d:\\1khai\\2 semester\\.net\\hw\\raii-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE49C47E-1142-4DFB-B142-3F6D50176AA7}|RAII-Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\HW\\RAII-Project\\FileManager.cs",
+              "RelativeDocumentMoniker": "FileManager.cs",
+              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\HW\\RAII-Project\\FileManager.cs",
+              "RelativeToolTip": "FileManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:12:03.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\HW\\RAII-Project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\HW\\RAII-Project\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T10:48:12.457Z",
               "EditorCaption": ""
